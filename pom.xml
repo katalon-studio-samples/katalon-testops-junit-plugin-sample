@@ -46,16 +46,13 @@
             <plugin>
                 <groupId>com.katalon.testops</groupId>
                 <artifactId>junit-report-uploader-plugin</artifactId>
-                <version>1.0.2</version>
+                <version>1.0.1-2</version>
                 <executions>
                     <execution>
                         <phase>test</phase>
                         <goals>
                             <goal>junit-uploader</goal>
                         </goals>
-                        <configuration>
-                            <serverUrl>http://localhost:8444</serverUrl>
-                        </configuration>
                     </execution>
                 </executions>
             </plugin>
