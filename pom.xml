@@ -46,7 +46,7 @@
             <plugin>
                 <groupId>com.katalon.testops</groupId>
                 <artifactId>junit-report-uploader-plugin</artifactId>
-                <version>1.0.2</version>
+                <version>1.0.1-1</version>
                 <executions>
                     <execution>
                         <phase>test</phase>
