@@ -53,9 +53,6 @@
                         <goals>
                             <goal>junit-uploader</goal>
                         </goals>
-                        <configuration>
-                            <serverUrl>http://localhost:8444</serverUrl>
-                        </configuration>
                     </execution>
                 </executions>
             </plugin>
