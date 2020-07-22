@@ -1,5 +1,5 @@
 # junit-report-uploader-sample
-A sample project for automatically uploads JUnit reports to Katalon TestOps after test using [katalon-testops-junit-plugin](https://github.com/katalon-studio/katalon-testops-junit-plugin).
+A sample project for automatically uploading JUnit reports to Katalon TestOps using [katalon-testops-junit-plugin](https://github.com/katalon-studio/katalon-testops-junit-plugin).
 
 # Instructions
 
